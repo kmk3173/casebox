@@ -31,14 +31,7 @@
     "sensio/generator-bundle": "^3.0",
     "symfony/doctrine-bridge": "^3.0",
     "sensio/framework-extra-bundle": "^3.0.2",
-    "kwi/urllinker": "@dev",
-     "packages": {
-        "vendor/package-name": {
-            "dev-master": { @composer.json },
-            "1.0.x-dev": { @composer.json },
-            "0.0.1": { @composer.json },
-            "1.0.0": { @composer.json }
-
+    "kwi/urllinker": "@dev"
   },
   "require-dev": {
     "caseboxdev/core-bundle": "@dev",
